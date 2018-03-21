@@ -36,7 +36,7 @@
     "ember-load-initializers": "^1.0.0",
     "ember-maybe-import-regenerator": "^0.1.6",
     "ember-resolver": "^4.0.0",
-    "ember-source": "~3.0.0",
+    "ember-source": "https://s3.amazonaws.com/builds.emberjs.com/canary/shas/87f43e40b2cdc5ce4f105aed259ad486b3ae0d13.tgz",
     "eslint-plugin-ember": "^5.0.0",
     "loader.js": "^4.2.3"
   },
